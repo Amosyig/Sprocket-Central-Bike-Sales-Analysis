@@ -1,7 +1,8 @@
 # Sprocket-Central-Bike-Sales-Analysis
 
 
-![](atliq_hardware_image.jpg)
+
+![bike-shop-concept-with-bicycles](https://github.com/user-attachments/assets/6bdd6687-3866-4571-8dd0-2a46f5497a0e)
 
 
 ## Introduction
@@ -28,9 +29,10 @@ The dashboard answers the following business questions:
 
 ## Visualization:
 
-#include here the entire dashboard image
 
 
+
+![dashboard_replacement](https://github.com/user-attachments/assets/3116b5f5-0ebc-4e76-bc4a-75af263f83d7)
 
 
 ## Analysis
@@ -49,8 +51,8 @@ Hence, below is my recommendations for targeting new prospects based on the sale
 
 
 This is a link to a medium post for more details: 
-![Lorem Ipsum]()
 
+https://www.datascienceportfol.io/yole_amos/projects/6
 Thanks!
 
 
