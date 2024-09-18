@@ -36,7 +36,12 @@ The dashboard answers the following business questions:
 
 
 ## Analysis
-
+- Gender: Revenue is nearly split, with females contributing 51.2% ($10.59M) and males 48.8% ($10.09M) of the total $20.69M.
+- Customer Type: Mass customers lead with 50.3% ($10.41M), followed by high-net-worth at 25% ($5.17M) and affluent customers at 24.7% ($5.11M).
+- Australian States: New South Wales drives 50% ($11.01M) of revenue, Victoria adds 25.3% ($5.23M), and Queensland accounts for 21.5% ($4.44M).
+- Age Brackets: Middle-aged adults (35-50) lead with $8.93M. Young adults (20-35) bring in $4.86M, mature adults (50-65) $5.55M, seniors (65-80) $1.32M, and elderly (80-95) only $20K.
+- Industry: Manufacturing, financial services, and health contribute 56% ($11.58M), while the other seven industries combined generate 44% ($9.11M).
+- Counties: Only 107 of 799 counties (13.4%) generate $50K or more, while the majority (86.6%) contribute less than $50K.
 
 
 ## Conclusion and Recommendations:
@@ -50,9 +55,10 @@ Hence, below is my recommendations for targeting new prospects based on the sale
 5. Wealth Segment:Prioritize prospects in the Mass customer wealth segment, followed by the High-Net-Worth segment.
 
 
-This is a link to a medium post for more details: 
+For indepth details of the analysis, here is a link to the portfolio page:
 
 https://www.datascienceportfol.io/yole_amos/projects/6
+
 Thanks!
 
 
